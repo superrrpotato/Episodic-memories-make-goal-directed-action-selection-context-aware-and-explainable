@@ -1,7 +1,19 @@
 
 # Episodic Neighbor Algorithm (ENA): Code Repository
 
-This repository contains the code used to generate the results and figures reported in the manuscript on **Episodic Memory-Based Goal Selection and Action Planning**. It includes Jupyter notebooks that demonstrate the process of goal-directed action selection with episodic memories and its relation to cognitive processes.
+This repository contains the code used to generate the results and figures reported in the manuscript on **Episodic Memory-Based Goal Selection and Action Planning**.
+Cite the paper:
+```
+@article{yang2025episodic,
+  title={Episodic memories enable powerful algorithms for goal-directed decision making that are context-aware and explainable},
+  author={Yang, Yukun and Maass, Wolfgang},
+  journal={bioRxiv},
+  pages={2025--10},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+It includes Jupyter notebooks that demonstrate the process of goal-directed action selection with episodic memories and its relation to cognitive processes.
 
 ---
 

@@ -16,9 +16,10 @@ This repository contains the code used to generate the results and figures repor
 - scipy==1.10  
 - pandas==2.0  
 - matplotlib==3.7  
-- torch==1.10 or later  
+- torch==2.1.0
 - networkx==3.1  
 - scikit-learn==1.2  
+- tqdm==4.66
 
 Install them with:
 

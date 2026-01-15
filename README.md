@@ -5,7 +5,7 @@ This repository contains the code used to generate the results and figures repor
 Cite the paper:
 ```
 @article{yang2025episodic,
-  title={Episodic memories enable powerful algorithms for goal-directed decision making that are context-aware and explainable},
+  title={Episodic memories make goal directed action selection context-aware and explainable},
   author={Yang, Yukun and Maass, Wolfgang},
   journal={bioRxiv},
   pages={2025--10},
